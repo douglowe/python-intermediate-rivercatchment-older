@@ -1,4 +1,4 @@
-"""Module containing models representing catchment data.
+"""Module containing models representing the catchment data.
 
 The Model layer is responsible for the 'business logic' part of the software.
 
